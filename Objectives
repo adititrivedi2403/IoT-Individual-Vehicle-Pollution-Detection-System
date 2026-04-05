@@ -1,0 +1,6 @@
+## 🎯 Objectives
+- Real-time monitoring of vehicle emissions (CO, CO2, Smoke)
+- Identify vehicles exceeding pollution limits
+- Capture vehicle images and detect number plates using AI
+- Upload data to cloud (ThingSpeak/Firebase)
+- Generate alerts for authorities
